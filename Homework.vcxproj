@@ -24,6 +24,9 @@
     <ClCompile Include="Task 5.cpp" />
     <ClCompile Include="Tasks 3 &amp; 4.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="basicfunc.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

@@ -1,12 +1,13 @@
 //#include <iostream>
+//#include "basicfunc.h"
 //using namespace std;
 //
 //int main()
 //{
 //	float num1, num2;
 //
-//	cout << "First number: "; cin >> num1;
-//	cout << "Second number: "; cin >> num2;
+//	do cout << "First number: "; while (!inputFunc::input(num1));
+//	do cout << "Second number: "; while (!inputFunc::input(num2));
 //
 //	cout <<				"\n"
 //						"Sum     | " << num1 + num2 << "\n"
