@@ -35,6 +35,7 @@ namespace inputFunc
 		return true;
 	}
 
+	// Only 5 numbers after the period
 	bool input(float& result)
 	{
 		string input;
@@ -64,6 +65,7 @@ namespace inputFunc
 		return true;
 	}
 
+	// Only 5 numbers after the period
 	bool input(double& result)
 	{
 		string input;

@@ -16,19 +16,37 @@
     <Filter Include="Source Files\Homework 1">
       <UniqueIdentifier>{d75a12fa-71fd-4fc9-bf2d-bde24c8c7b05}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Homework 2">
+      <UniqueIdentifier>{1b2c767f-5229-4911-aadf-5dde9764f830}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Task 1.cpp">
+    <ClCompile Include="Task 1_1.cpp">
       <Filter>Source Files\Homework 1</Filter>
     </ClCompile>
-    <ClCompile Include="Task 2.cpp">
+    <ClCompile Include="Task 1_2.cpp">
       <Filter>Source Files\Homework 1</Filter>
     </ClCompile>
-    <ClCompile Include="Tasks 3 &amp; 4.cpp">
+    <ClCompile Include="Tasks 1_3 &amp; 1_4.cpp">
       <Filter>Source Files\Homework 1</Filter>
     </ClCompile>
-    <ClCompile Include="Task 5.cpp">
+    <ClCompile Include="Task 1_5.cpp">
       <Filter>Source Files\Homework 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2_1.cpp">
+      <Filter>Source Files\Homework 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2_2.cpp">
+      <Filter>Source Files\Homework 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2_3.cpp">
+      <Filter>Source Files\Homework 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2_4.cpp">
+      <Filter>Source Files\Homework 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 2_5.cpp">
+      <Filter>Source Files\Homework 2</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

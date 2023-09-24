@@ -7,7 +7,7 @@
 //{
 //	double a, b, c, d;
 //
-//	cout << "ax2 + bx + c = 0\n\n";
+//	cout << "ax2 + bx + c == 0\n\n";
 //
 //	do cout << "Print a value: "; while (!inputFunc::input(a));
 //	do cout << "Print b value: "; while (!inputFunc::input(b));
