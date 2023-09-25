@@ -21,13 +21,18 @@
   <ItemGroup>
     <ClCompile Include="Task 1_1.cpp" />
     <ClCompile Include="Task 1_2.cpp" />
-    <ClCompile Include="Task 1_5.cpp" />
-    <ClCompile Include="Task 2_2.cpp" />
+    <ClCompile Include="Task 3_1.cpp" />
+    <ClCompile Include="Task 3_2.cpp" />
+    <ClCompile Include="Task 3_3.cpp" />
+    <ClCompile Include="Task 3_4.cpp" />
+    <ClCompile Include="Task 3_5.cpp" />
+    <ClCompile Include="Tasks 1_3 &amp; 1_4.cpp" />
     <ClCompile Include="Task 2_1.cpp" />
+    <ClCompile Include="Task 2_2.cpp" />
     <ClCompile Include="Task 2_3.cpp" />
     <ClCompile Include="Task 2_4.cpp" />
     <ClCompile Include="Task 2_5.cpp" />
-    <ClCompile Include="Tasks 1_3 &amp; 1_4.cpp" />
+    <ClCompile Include="Task 1_5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basicfunc.h" />
