@@ -22,6 +22,9 @@
     <Filter Include="Source Files\Homework 3">
       <UniqueIdentifier>{9ee05932-b9fa-4e6b-9d78-92af76630c51}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Homework 4">
+      <UniqueIdentifier>{0473e137-90ab-4e1e-ad81-fe184db5c25d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Task 1_1.cpp">
@@ -66,10 +69,40 @@
     <ClCompile Include="Task 3_5.cpp">
       <Filter>Source Files\Homework 3</Filter>
     </ClCompile>
+    <ClCompile Include="Task 4_1.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_2.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_3.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_4.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_5.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_6.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_7.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_8.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Task 4_9.cpp">
+      <Filter>Source Files\Homework 4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basicfunc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

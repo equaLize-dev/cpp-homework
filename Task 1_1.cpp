@@ -1,7 +1,6 @@
 //#include <iostream>
 //
-//int main()
-//{
+//int main(){
 //	std::cout << "My name is not ur business.\n";
 //	return 0;
 //}
