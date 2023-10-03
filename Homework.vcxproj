@@ -36,6 +36,13 @@
     <ClCompile Include="Task 4_7.cpp" />
     <ClCompile Include="Task 4_8.cpp" />
     <ClCompile Include="Task 4_9.cpp" />
+    <ClCompile Include="Task 5_1.cpp" />
+    <ClCompile Include="Task 5_2.cpp" />
+    <ClCompile Include="Task 5_3-8.cpp" />
+    <ClCompile Include="Task 5_3-9.cpp" />
+    <ClCompile Include="Task 5_4-35.cpp" />
+    <ClCompile Include="Task 5_4-36.cpp" />
+    <ClCompile Include="Task 5_5-33.cpp" />
     <ClCompile Include="Tasks 1_3 &amp; 1_4.cpp" />
     <ClCompile Include="Task 2_1.cpp" />
     <ClCompile Include="Task 2_2.cpp" />
