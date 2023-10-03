@@ -2,10 +2,10 @@
 //#include "basicfunc.h"
 //
 //int main(){
-//	int N;
-//	do std::cout << "Print N value (it must be natural number): \n"; while (!inputFunc::input(N) || N <= 0);
+//	int n;
+//	do std::cout << "Print N value (it must be natural number): \n"; while (!inputFunc::input(n) || n <= 0);
 //
-//	for (int i = 1; i <= 10; i++) std::cout << N + i << "\n";
+//	for (int i = n; i <= n + 9; i++) std::cout << i + 1 << "\n";
 //
 //	return 0;
 //}

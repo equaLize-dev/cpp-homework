@@ -88,7 +88,7 @@
 //    }
 //    
 //    if (!isCorrect || (s[i - 3] == 'I' && s[i - 2] != 'I'))
-//        std::cout << "Provided number is not correct";
+//        std::cout << "Provided number is not correct.";
 //    
 //    else { std::cout << calculation(s, i-1) << "\n"; }
 // 

@@ -5,6 +5,12 @@
 
 namespace inputFunc
 {
+	/// <summary>
+	/// Checks if user input is a valid integer
+	/// A.K.A TryParse()
+	/// </summary>
+	/// <param name="result">Reference to an integer variable to assign the result</param>
+	/// <returns>True if input is valid; False if input is not valid</returns>
 	bool input(int& result){
 		std::string input;
 		int num = 0;
@@ -31,7 +37,12 @@ namespace inputFunc
 		return true;
 	}
 
-	// Only 5 numbers after the period
+	/// <summary>
+	/// Checks if user input is a valid float
+	/// A.K.A TryParse()
+	/// </summary>
+	/// <param name="result">Reference to a float variable to assign the result (result can contain only 5 places after the period)</param>
+	/// <returns>True if input is valid; False if input is not valid</returns>
 	bool input(float& result){
 		std::string input;
 		float num = 0;
@@ -58,7 +69,12 @@ namespace inputFunc
 		return true;
 	}
 
-	// Only 5 numbers after the period
+	/// <summary>
+	/// Checks if user input is a valid double
+	/// A.K.A TryParse()
+	/// </summary>
+	/// <param name="result">Reference to a double variable to assign the result (result can contain only 5 places after the period)</param>
+	/// <returns>True if input is valid; False if input is not valid</returns>
 	bool input(double& result){
 		std::string input;
 		double num = 0;

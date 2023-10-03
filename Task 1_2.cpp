@@ -1,5 +1,5 @@
 //#include <iostream>
-//#include "basicfunc.h" // ?
+//#include "basicfunc.h"
 //
 //int main() {
 //	float num1, num2;
@@ -11,7 +11,8 @@
 //		"Sum     | " << num1 + num2 << "\n"
 //		"Diff    | " << num1 - num2 << "\n"
 //		"Product | " << num1 * num2 << "\n";
-//	num2 != 0 ? std::cout << "Frac    | " << num1 / num2 << "\n"
+//	num2 != 0 
+//		? std::cout << "Frac    | " << num1 / num2 << "\n" 
 //		: std::cout << "Impossible to calculate fraction (second number is 0).\n";
 //
 //	return 0;

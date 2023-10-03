@@ -11,17 +11,17 @@
 //	do std::cout << "Print b value: "; while (!inputFunc::input(b));
 //
 //	if (((b - y) <= 0) && ((b - x) < 0)){
-//		std::cout << "\nUnable to calculate function, because logarithm argument is less or equals 0 and radical argument is less than 0.\n";
+//		std::cout << "\Impossible to calculate function, because logarithm argument is less or equals 0 and radical argument is less than 0.\n";
 //		return 0;
 //	}
 //
 //	if ((b - y) <= 0){
-//		std::cout << "\nUnable to calculate function, because logarithm argument is less or equals 0.\n";
+//		std::cout << "\Impossible to calculate function, because logarithm argument is less or equals 0.\n";
 //		return 0;
 //	}
 //
 //	if ((b - x) < 0){
-//		std::cout << "\nUnable to calculate function, because radical argument is less than 0.\n";
+//		std::cout << "\Impossible to calculate function, because radical argument is less than 0.\n";
 //		return 0;
 //	}
 //

@@ -9,7 +9,6 @@
 //	std::cout << "V == 1/3 * Pi * H * (R^2 + R * r + r^2)\n";
 //	std::cout << "S == Pi* (R^2 + (R + r)* l + r^2)\n\n";
 //	std::cout << "Pi considered as 3.14159\n\n";
-//
 //	do std::cout << "Print H value: "; while (!inputFunc::input(H));
 //	do std::cout << "Print l value: "; while (!inputFunc::input(l));
 //	do std::cout << "Print R value: "; while (!inputFunc::input(R));

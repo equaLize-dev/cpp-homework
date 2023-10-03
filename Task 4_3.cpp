@@ -3,28 +3,45 @@
 //#include "basicfunc.h"
 //#include "cmath"
 //
+//#pragma region Functions
+//
 //float aorectangle(float a, float b) { return a * b;}
+//
 //float aocircle(float r) { return M_PI * pow(r, 2); }
+//
 //float aotriangle1(float a, float h) { return 0.5 * a * h; }
+//
 //float aotriangle2(float a, float b) { return 0.5 * a * b; }
+//
 //float aotriangle3(float a, float b, float alpha) { return 0.5 * a * b * sin(alpha * M_PI / 180); }
+//
 //float aotriangle4(float a, float b, float c, float R) { 
 //	if (R == 0) throw std::string("Impossible to calculate S (R == 0).");
 //	return (a * b * c) / (4 * R); 
 //}
+//
 //float aotriangle5(float a, float b, float c, float r) { return r * (a + b + c) / 2; }
+//
 //float aotriangle6(float a, float alpha, float beta) { 
-//	if (alpha == 0 && beta == 0) throw std::string("Impossible to calculate S (sin(alpha + beta) == 0).");
-//	return (pow(a, 2) * sin(alpha * (M_PI / 180)) * sin(beta * (M_PI / 180))) / 2 * sin(alpha * (M_PI / 180) + beta * (M_PI / 180)); }
+//	if (alpha == 0 && beta == 0) 
+//		throw std::string("Impossible to calculate S (sin(alpha + beta) == 0).");
+//	return (pow(a, 2) * sin(alpha * (M_PI / 180)) * sin(beta * (M_PI / 180))) / 2 * sin(alpha * (M_PI / 180) + beta * (M_PI / 180)); 
+//}
+//
 //float aotriangle7(float a, float b, float c, float p) {
 //	float argument = p * (p - a) * (p - b) * (p - c);
-//	if (argument < 0) throw std::string("Impossible to calculate S (radical argument less than zero).");
-//	return sqrt(p * (p - a) * (p - b) * (p - c)); }
-//float aotriangle8(float a) { return (sqrt(3) * pow(a, 2)) / 4;  }
+//	if (argument < 0) 
+//		throw std::string("Impossible to calculate S (radical argument less than zero).");
+//	return sqrt(p * (p - a) * (p - b) * (p - c)); 
+//}
+//
+//float aotriangle8(float a) { return (sqrt(3) * pow(a, 2)) / 4; }
+//
+//#pragma endregion
 //
 //int main() {
-//	float a, b, c, h, p, r, R, alpha, beta;
 //	int choice;
+//	float a, b, c, h, p, r, R, alpha, beta;
 //	do std::cout << "\"1\" - Rectangle\n\"2\" - Circle\n\"3\" - Triangle\nSelect figure: "; 
 //	while (!inputFunc::input(choice) || choice < 1 || choice > 3);
 //
