@@ -8,10 +8,20 @@
 //	std::string line;
 //	std::ifstream fin(fileName);
 //
+//	bool sequence = false;
 //	while (getline(fin, line)){
 //		for (char n : line)
-//			if (nums.find(n) != std::string::npos)
-//				std::cout << n << " ";
+//			if (nums.find(n) != std::string::npos) {
+//				std::cout << n;
+//				sequence = true;
+//			}
+//				
+//			else {
+//				if (sequence)
+//					std::cout << " ";
+//				
+//				sequence = false;
+//			}
 //
 //		std::cout << "\n";
 //	}

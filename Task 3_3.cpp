@@ -8,7 +8,7 @@
 //	std::ofstream fout(fileName);
 //	std::ifstream fin(fileName);
 //
-//	fout << "1 (one)\n2 (two)\n3 (three)";
+//	fout << "abc12d2\n321ab32";
 //	fout.close();
 //
 //    while (getline(fin, line)) 
