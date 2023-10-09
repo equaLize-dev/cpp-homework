@@ -28,6 +28,9 @@
     <Filter Include="Source Files\Homework 5">
       <UniqueIdentifier>{daf57c5e-d918-451d-af1c-81741a8dab4a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Test">
+      <UniqueIdentifier>{87bf3ea2-24a4-4ad6-aee6-f549c19d4485}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Task 1_1.cpp">
@@ -119,6 +122,21 @@
     </ClCompile>
     <ClCompile Include="Task 5_5-33.cpp">
       <Filter>Source Files\Homework 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Test_task_1.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test_task_2.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test_task_3.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test_task_4.cpp">
+      <Filter>Source Files\Test</Filter>
+    </ClCompile>
+    <ClCompile Include="Test_task_5.cpp">
+      <Filter>Source Files\Test</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

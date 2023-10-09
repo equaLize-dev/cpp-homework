@@ -50,6 +50,11 @@
     <ClCompile Include="Task 2_4.cpp" />
     <ClCompile Include="Task 2_5.cpp" />
     <ClCompile Include="Task 1_5.cpp" />
+    <ClCompile Include="Test_task_1.cpp" />
+    <ClCompile Include="Test_task_2.cpp" />
+    <ClCompile Include="Test_task_3.cpp" />
+    <ClCompile Include="Test_task_4.cpp" />
+    <ClCompile Include="Test_task_5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="basicfunc.h" />
@@ -143,6 +148,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
